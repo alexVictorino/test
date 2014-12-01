@@ -1,7 +1,6 @@
 import javax.swing.*;
 import javax.swing.Timer;
 import java.awt.*;
-import java.awt.geom.*;
 import java.awt.event.*;
 import static java.lang.Math.*;
 
